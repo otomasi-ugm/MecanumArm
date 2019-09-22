@@ -9,4 +9,4 @@ before_install:
 install:
   - unzip $PWD/arduino/lib/DynamixelSerial.zip -d /usr/local/share/arduino/libraries/DynamixelSerial
 script:
-  - arduino --verify --board arduino:avr:mega $PWD/arduino/mecanum_arm/mecanum_arm.ino
+  - arduino --verify --board arduino:avr:mega:cpu=atmega2560 $PWD/arduino/mecanum_arm/mecanum_arm.ino
