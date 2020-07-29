@@ -1,0 +1,11 @@
+For Arduino
+== Go to file --> lisaMecanumArmManipulator --> "lisaMecanumArmManipulator.ino"
+== The library that i used is in the [libraryInUse] file
+== Some reference in reference file
+== using Arduino 1.8.10 and Teensy Loader 1.48
+
+For Processing
+== Go to file --> neosMecanumArmManipulator --> "neosMecanumArmManipulator.pde"
+== The library that i used is in the [libraryInUse] file
+== Some reference in reference file
+== using Processing 3.5.4
