@@ -7,6 +7,10 @@ This repository contain all information to build a Mecanum Robot that have Arm o
 - [Eagle](https://www.autodesk.com/education/free-software/eagle)
 
 ## Hardware
-- Arduino Mega 2560
+- Teensy 3.5
 - H-Bridge motor driver
-- Dynamixel Servo
+- Dynamixel Servo AX-18A
+- RadioLink GPS
+- Telemetri 915Mhz
+- Radiolink Remote AT9
+- Logitech Cammera C525
